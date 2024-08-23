@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png",广东民生
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png",广东民生高清
 http://192.168.2.1:8686/rtp/239.11.0.80:1025
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png",广东珠江高清
 http://192.168.2.1:8686/rtp/239.10.0.63:1025
